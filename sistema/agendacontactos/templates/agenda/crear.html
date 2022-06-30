@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block titulo %}Agregar nuevo contacto{% endblock %}
+
+{% block contenido %} 
+
+<div class="card">
+    <div class="card-header">
+        Crear un contacto
+    </div>
+    <div class="card-body">
+        <h4 class="card-title">Datos del contacto</h4>
+        
+        {% include 'agenda/form.html' %}
+
+    </div>
+    <div class="card-footer text-muted">
+        
+    </div>
+</div>
+{% endblock %}
