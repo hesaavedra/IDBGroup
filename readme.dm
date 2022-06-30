@@ -1,5 +1,3 @@
-#IDBGroup
-------------
 **Desarrollado por:**
 - Hugo Enrique Saavedra Sánchez
 - e-mail: hesaavedra@gmail.com
